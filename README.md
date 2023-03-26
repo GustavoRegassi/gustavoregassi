@@ -1,4 +1,14 @@
-### Oi me chamo Gustavo Francisco Regassi, estudante de Ciêncis da Computação.
+<h1 align="center"
+    <p>
+Hi devs! Sejam bem-vindos ao meu perfil! 👋
+<br>
+<br>
+<p align="center">Visitantes:</p>
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/MariPadilha/count.svg"/></p>
+   </p><hr>
+   
+</h1>
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
