@@ -1,6 +1,4 @@
 ### Oi me chamo Gustavo Francisco Regassi, estudante de Ciêncis da Computação.
-
-- 🌱 Estudando a programação C 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
