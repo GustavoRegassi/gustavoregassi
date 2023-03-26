@@ -76,5 +76,5 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 
 </div>
 
-![Snake animation](https://github.com/GustavoRegassi/gustavoregassi/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/gustavoregassi/gustavoregassi/blob/output/github-contribution-grid-snake.svg) 
 
