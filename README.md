@@ -5,7 +5,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="right" alt="Gustavo-pic" height="130" style="border-radius:200px;" 
- src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
+ src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 </div>
   
   
