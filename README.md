@@ -4,7 +4,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Gustavo-pic" height="250" style="border-radius:80px;" 
+  <img align="right" alt="Gustavo-pic" height="350" style="border-radius:100px;" 
  src="https://cdn-idpgf.nitrocdn.com/TSeLIaDKAUBecatjFLZJpxhTJKErGZRH/assets/images/optimized/rev-2fec28e/insights/wp-content/uploads/2022/09/PHP-Developers.gif">
 </div>
   
