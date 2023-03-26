@@ -1,3 +1,10 @@
+ ## :space_invader: Olá, eu sou Gustavo Regassi!
+
+Oi, tenho 18 anos, moro em Guariba/SP, sou estudante de Ciência da Computação no [Centro Universitário Barão de Mauá](https://www.baraodemaua.br/). Atualmente sou iniciante no universo da programação mas tenho muito vontade de apreender novas linguagens. Veja também meu [Linkedin](https://www.linkedin.com/in/gustavo-francisco-regassi-1b747725a/).
+
+
+
+
 <h1 align="center"
     <p>
 Oi, Sejam bem-vindos ao meu perfil! 👋
