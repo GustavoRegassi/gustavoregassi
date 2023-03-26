@@ -12,6 +12,8 @@ Oi, Sejam bem-vindos ao meu perfil! 👋
 ![stats](https://github-readme-stats.vercel.app/api?username=gustavoregassi&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustavoregassi&theme=tokyonight)](https://git.io/streak-stats)
 
+![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
+
 # Sobre mim:
 - Nome: Gustavo Francisco Regassi
 - Minha idade: 18 Anos
