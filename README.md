@@ -15,14 +15,14 @@ Oi, Sejam bem-vindos ao meu perfil! 👋
 # Sobre mim:
 - Nome: Gustavo Francisco Regassi
 - Minha idade: 18 Anos
-- Apaixonada por: Tecnologia, jogos, músicas, robótica, filmes, séries.
+- Gosto de: Tecnologia, jogos, músicas, robótica, filmes, séries.
 - Linguagens: C e Python(py) 
 <hr>
 
 ### Linguagens:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Gustavo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     
 </div>
 <hr>
