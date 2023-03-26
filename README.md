@@ -15,7 +15,7 @@ Oi, Sejam bem-vindos ao meu perfil! 👋
 # Sobre mim:
 - Nome: Gustavo Francisco Regassi
 - Minha idade: 18 Anos
-- Gosto de: Tecnologia, jogos, músicas, robótica, filmes, séries.
+- Gosto de: Tecnologia, Jogos, Músicas, Robótica, Filmes e Séries.
 - Linguagens: C e Python(py) 
 <hr>
 
