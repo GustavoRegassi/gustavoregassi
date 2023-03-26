@@ -33,10 +33,15 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 - Linguagens: C e Python(py) 
 <hr>
 
-### Linguagens:
+### Linguagens que eu já sei:
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title = "JavaScript"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "Typescript"/></code>
+
   
+### Linguagens que pretendo apreender:
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "Typescript"/></code>
+<code><img width="40px" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" title = "JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "Typescript"/></code>
     
 </div>
 <hr>
