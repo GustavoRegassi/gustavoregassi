@@ -14,7 +14,6 @@ Oi, Sejam bem-vindos ao meu perfil! 👋
    
 </h1>
 
-# 📊GitHub Stats :
 ![stats](https://github-readme-stats.vercel.app/api?username=gustavoregassi&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustavoregassi&theme=tokyonight)](https://git.io/streak-stats)
 
@@ -22,6 +21,8 @@ Oi, Sejam bem-vindos ao meu perfil! 👋
 <img align="right" alt="Rafa-pic" height="180" style="border-radius:80px;" 
 src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 </div>
+
+![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
 # Sobre mim:
 - Nome: Gustavo Francisco Regassi
@@ -63,7 +64,8 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 <hr>
 
 
-## 🌐Redes Sociais
+##
+
 <div>
   <a href="https://www.youtube.com/channel/UCxO3fcT6mRctGVSAAOdD4LA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gustavo_regassi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -72,11 +74,7 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 
 </div>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gustavoregassi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Mensagem de desenvolvedor aleatória
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
 
