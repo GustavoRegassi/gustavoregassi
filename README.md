@@ -59,7 +59,7 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 
 ### Cursos que fiz sobre C 📚:
 
-- [x] Introdução à Programação do Neps Academy
+- 
 
 <hr>
 
