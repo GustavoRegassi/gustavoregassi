@@ -1,6 +1,6 @@
  ## :space_invader: Olá, eu sou Gustavo Regassi!
 
-Oi, tenho 18 anos, sou estudante de Ciência da Computação no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus São João da Boa Vista](https://www.sbv.ifsp.edu.br/). Atualmente sou iniciante no universo da programação mas tenho muito vontade de apreender novas linguagens. Veja também meu [Linkedin](https://www.linkedin.com/in/gustavo-francisco-regassi-1b747725a/).
+Oi, tenho 18 anos, e sou estudante de Ciência da Computação no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus São João da Boa Vista](https://www.sbv.ifsp.edu.br/). Atualmente sou iniciante no universo da programação mas tenho muito vontade de apreender novas linguagens. Veja também meu [Linkedin](https://www.linkedin.com/in/gustavo-francisco-regassi-1b747725a/).
 
 
 <h1 align="center"
