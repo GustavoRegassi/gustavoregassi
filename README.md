@@ -50,7 +50,7 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 <hr>
 
 ### Tempo de estudo de C⏲️:
-- Estudo C há um dia
+- Estudo C desde 01/04/2023
 <hr>
 
 ### Tempo de estudo de Py⏲️:
