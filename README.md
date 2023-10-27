@@ -8,9 +8,7 @@ Oi, tenho 18 anos, e sou estudante de Ciência da Computação no [Instituto Fed
 Oi, Sejam bem-vindos ao meu perfil! 👋
 <br>
 <br>
-<p align="center">Visitantes:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/gustavoregassi/count.svg"/></p>
-   </p><hr>
+
    
 </h1>
 
