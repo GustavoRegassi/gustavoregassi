@@ -24,8 +24,8 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 
 # Sobre mim:
 - Nome: Gustavo Francisco Regassi
-- Minha idade: 18 Anos
-- Gosto de: Tecnologia, Jogos, Músicas, Robótica, Filmes e Séries.
+- Minha idade: 19 Anos
+- Gosto de: Tecnologia, Jogos, Músicas, VaVa, Filmes e Séries.
 - Linguagens: C e Python(py) 
 <hr>
 
