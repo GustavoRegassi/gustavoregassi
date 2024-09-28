@@ -1,6 +1,6 @@
  ## :space_invader: Olá, eu sou Gustavo Regassi!
 
-Oi, tenho 19 anos, e sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. https://www.ifsp.edu.br/. Atualmente sou iniciante no universo da programação mas tenho muito vontade de apreender novas linguagens. Veja também meu [Linkedin] https://www.linkedin.com/in/gustavo-francisco-regassi-1b747725a/
+Oi, tenho 19 anos, e sou estudante de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. https://www.ifsp.edu.br/. Atualmente sou iniciante no universo da programação mas tenho muito vontade de apreender novas linguagens. Veja também meu Linkedin https://www.linkedin.com/in/gustavo-francisco-regassi-1b747725a/
 
 </h1>
 
@@ -12,7 +12,6 @@ Oi, tenho 19 anos, e sou estudante de Ciência da Computação no Instituto Fede
 src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 </div>
 
-![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
 # Sobre mim:
 - Gosto de: Tecnologia, Jogos, Músicas, Filmes e Séries.
@@ -22,10 +21,9 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 
 ### Linguagens que tenho conhecimento:
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title = "JavaScript"/></code>
-
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title = "Typescript"/></code>
   
 ### Linguagens que pretendo apreender:
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title = "Typescript"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "Typescript"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" title = "Typescript"/></code>
 
@@ -33,17 +31,12 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 </div>
 <hr>
 
-### Descrição do meu objetivo:
-- Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvendo programas novos
-- Gosto de trabalhar em equipe!
-<hr>
-
 ### Tempo de estudo de C⏲️:
-()
+(00h 00m)
 <hr>
 
 ### Tempo de estudo de Java⏲️:
-()
+(00h 00m)
 <hr>
 
 ### Cursos que fiz sobre C 📚:
