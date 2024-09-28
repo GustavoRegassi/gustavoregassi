@@ -9,10 +9,6 @@ Oi, tenho 19 anos, e sou estudante de Ciência da Computação no Instituto Fede
 
 <div style="display: inline_block"><br>
 <div style="display: inline_block"><br>
-<div style="display: inline_block"><br>
-<div style="display: inline_block"><br>
-<div style="display: inline_block"><br>
-<img align="right" alt="Rafa-pic" height="180" style="border-radius:80px;" 
 src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 </div>
 
