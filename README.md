@@ -7,12 +7,9 @@ Oi, tenho 19 anos, e sou estudante de Ciência da Computação no Instituto Fede
 ![stats](https://github-readme-stats.vercel.app/api?username=gustavoregassi&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustavoregassi&theme=tokyonight)](https://git.io/streak-stats)
 
-<div style="display: inline_block"><br>
 
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
-
-# Sobre mim:
 - Gosto de: Tecnologia, Jogos, Músicas, Filmes e Séries.
 - Linguagens: C e Java
 - Objetivo: Tenho como metas crescer no âmbito profissional, adquirindo conhecimentos novos e também tenho proposito evoluir no campo pessoal.
