@@ -1,15 +1,7 @@
  ## :space_invader: Olá, eu sou Gustavo Regassi!
 
-Oi, tenho 19 anos, e sou estudante de Ciência da Computação no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.(https://www.ifsp.edu.br/). Atualmente sou iniciante no universo da programação mas tenho muito vontade de apreender novas linguagens. Veja também meu [Linkedin](https://www.linkedin.com/in/gustavo-francisco-regassi-1b747725a/).
+Oi, tenho 19 anos, e sou estudante de Ciência da Computação no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.(https://www.ifsp.edu.br/). Atualmente sou iniciante no universo da programação mas tenho muito vontade de apreender novas linguagens. Veja também meu [Linkedin]https://www.linkedin.com/in/gustavo-francisco-regassi-1b747725a/
 
-
-<h1 align="center"
-    <p>
-Oi, Sejam bem-vindos ao meu perfil! 👋
-<br>
-<br>
-
-   
 </h1>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=gustavoregassi&show_icons=true&theme=tokyonight)
@@ -23,13 +15,12 @@ src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
 
 # Sobre mim:
-- Nome: Gustavo Francisco Regassi
-- Minha idade: 19 Anos
 - Gosto de: Tecnologia, Jogos, Músicas, Filmes e Séries.
-- Linguagens: C 
+- Linguagens: C e Java
+- Objetivo: Tenho como metas crescer no âmbito profissional, adquirindo conhecimentos novos e também tenho proposito evoluir no campo pessoal.
 <hr>
 
-### Linguagens que eu já sei:
+### Linguagens que tenho conhecimento:
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title = "JavaScript"/></code>
 
   
