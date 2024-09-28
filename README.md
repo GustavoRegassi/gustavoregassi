@@ -10,6 +10,7 @@ Oi, tenho 19 anos, e sou estudante de Ciência da Computação no Instituto Fede
 
 
 ![minha apresentação](https://img.shields.io/static/v1?label=SOBRE-MIM&message=GITHUB&color=<COLOR>&style=<STYLE>&logo=<LOGO>)
+# Sobre mim:
 - Gosto de: Tecnologia, Jogos, Músicas, Filmes e Séries.
 - Linguagens: C e Java
 - Objetivo: Tenho como metas crescer no âmbito profissional, adquirindo conhecimentos novos e também tenho proposito evoluir no campo pessoal.
